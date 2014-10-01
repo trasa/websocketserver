@@ -1,0 +1,8 @@
+.idea/
+*.iml
+target/
+workspace.xml
+**/*/tasks.xml
+*.iws
+*.class
+*.swp
