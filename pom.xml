@@ -15,7 +15,7 @@
         <slf4j.version>1.7.6</slf4j.version>
         <logback.version>1.2.10</logback.version>
         <args4j.version>2.0.29</args4j.version>
-        <spring.framework.version>5.3.18</spring.framework.version>
+        <spring.framework.version>6.0.0</spring.framework.version>
         <primefaces.version>4.0</primefaces.version>
         <primefaces.themes.aristo.version>1.0.1</primefaces.themes.aristo.version>
         <jsf.version>2.2.5</jsf.version>
